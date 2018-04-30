@@ -1,0 +1,11 @@
+C:\RAMP\RAMPControl.API\bin\Debug\netcoreapp2.0\RAMPControl.API.deps.json
+C:\RAMP\RAMPControl.API\bin\Debug\netcoreapp2.0\RAMPControl.API.runtimeconfig.json
+C:\RAMP\RAMPControl.API\bin\Debug\netcoreapp2.0\RAMPControl.API.runtimeconfig.dev.json
+C:\RAMP\RAMPControl.API\bin\Debug\netcoreapp2.0\RAMPControl.API.dll
+C:\RAMP\RAMPControl.API\bin\Debug\netcoreapp2.0\RAMPControl.API.pdb
+C:\RAMP\RAMPControl.API\obj\Debug\netcoreapp2.0\RAMPControl.API.csprojResolveAssemblyReference.cache
+C:\RAMP\RAMPControl.API\obj\Debug\netcoreapp2.0\RAMPControl.API.csproj.CoreCompileInputs.cache
+C:\RAMP\RAMPControl.API\obj\Debug\netcoreapp2.0\RAMPControl.API.AssemblyInfoInputs.cache
+C:\RAMP\RAMPControl.API\obj\Debug\netcoreapp2.0\RAMPControl.API.AssemblyInfo.cs
+C:\RAMP\RAMPControl.API\obj\Debug\netcoreapp2.0\RAMPControl.API.dll
+C:\RAMP\RAMPControl.API\obj\Debug\netcoreapp2.0\RAMPControl.API.pdb
