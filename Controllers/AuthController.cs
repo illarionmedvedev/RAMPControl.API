@@ -74,6 +74,8 @@ namespace RAMPControl.API.Controllers
             var tokenString = tokenHandler.WriteToken(token);
 
             return Ok(new { tokenString });
+            
+
         }
     }
 }

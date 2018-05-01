@@ -8,6 +8,8 @@ namespace RAMPControl.API.Data
         public DataContext(DbContextOptions<DataContext> options):base(options){}
          public DbSet <DailyWorkComment> DailyComment { get; set; }
          public DbSet <User> Users { get; set; }
+
+         public DbSet <Reports> Reports { get; set; }
         
     }
 }

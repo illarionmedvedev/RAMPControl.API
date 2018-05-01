@@ -9,7 +9,7 @@ using RAMPControl.API.Data;
 
 namespace RAMPControl.API.Controllers
 {
-    [Authorize]
+    [AllowAnonymous]
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
